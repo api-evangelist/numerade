@@ -2,6 +2,13 @@
   "repo": "numerade",
   "feeds": [
     {
+      "source": "https://www.numerade.com/blog/feed/",
+      "feed_url": "https://www.numerade.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.numerade.com/",
       "feed_url": "https://www.numerade.com/blog/feed/",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-07-25T15:00:33Z"
+  "post_count": 10,
+  "fetched": "2026-08-01T15:49:00Z"
 }
