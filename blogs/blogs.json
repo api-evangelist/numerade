@@ -3,21 +3,16 @@
   "feeds": [
     {
       "source": "https://www.numerade.com/blog/feed/",
-      "feed_url": "https://www.numerade.com/blog/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "error": "fetch_failed: HTTPError"
+      "error": "HTTPError"
     },
     {
       "source": "https://www.numerade.com/",
-      "feed_url": "https://www.numerade.com/blog/feed/",
+      "feed_url": "https://www.numerade.com/",
       "title": "",
       "saved": 0,
-      "method": "discovered",
-      "error": "fetch_failed: HTTPError"
+      "method": "none"
     }
   ],
   "post_count": 10,
-  "fetched": "2026-08-15T12:11:08Z"
+  "fetched": "2026-08-22T20:20:02Z"
 }
