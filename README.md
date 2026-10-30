@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Numerade is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Numerade is an education technology company that helps students learn STEM subjects through short, expert-created video solutions, step-by-step textbook explanations, and an AI study tutor branded as Ace. Ace responds to typed questions, uploaded notes, quizzes, and worksheets, and can summarize material to help students prepare for exams. The platform spans math, science, and other STEM courses with a large library of instructor-led problem walkthroughs and practice questions. Numerade is a venture-backed consumer learning product and does not currently expose a public developer API, developer portal, or SDK. This profile was added to the API Evangelist network as a portfolio lead of General Catalyst and enriched by probing the public site (2026-07-20).
 
-Backed by: general-catalyst
+**Areas:** Company · Education · EdTech · STEM · Tutoring · Video Learning · Artificial Intelligence
+
+## Numerade on APIs.io
+
+Everything profiled for Numerade is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/numerade/](https://apis.io/providers/numerade/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Numerade Domain Security](https://apis.io/security/numerade/numerade-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.numerade.com/)
+- [Sign up](https://www.numerade.com/signup/student/)
+- [Support](https://www.numerade.com/help/)
+- [Blog](https://www.numerade.com/blog/)
+- [Terms of service](https://www.numerade.com/terms/)
+- [Privacy policy](https://www.numerade.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 9.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 6.0 |
+| Access clarity | 22.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/numerade/](https://apis.io/providers/numerade/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Numerade: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/numerade/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
